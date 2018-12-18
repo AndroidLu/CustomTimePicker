@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="timetimepicker_default_text_color">#17233D</color>
+    <color name="timepicker_toolbar_bg">#17233D</color>
+    <color name="timepicker_dialog_bg">#53B755</color>
+    <color name="timepicker_line">#8BDC8E</color>
+    <color name="bg_F0F0F0_color">#Ffffff</color>
+</resources>
